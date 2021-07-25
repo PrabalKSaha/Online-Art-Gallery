@@ -1,0 +1,13 @@
+E:\Works\visc#\art2\art2\bin\Debug\art2.exe.config
+E:\Works\visc#\art2\art2\bin\Debug\art2.exe
+E:\Works\visc#\art2\art2\bin\Debug\art2.pdb
+E:\Works\visc#\art2\art2\obj\Debug\art2.Form1.resources
+E:\Works\visc#\art2\art2\obj\Debug\art2.Properties.Resources.resources
+E:\Works\visc#\art2\art2\obj\Debug\art2.usc1.resources
+E:\Works\visc#\art2\art2\obj\Debug\art2.csproj.GenerateResource.Cache
+E:\Works\visc#\art2\art2\obj\Debug\art2.exe
+E:\Works\visc#\art2\art2\obj\Debug\art2.pdb
+E:\Works\visc#\art2\art2\obj\Debug\art2.usc2.resources
+E:\Works\visc#\art2\art2\obj\Debug\art2.usc3.resources
+E:\Works\visc#\art2\art2\obj\Debug\art2.csprojResolveAssemblyReference.cache
+E:\Works\visc#\art2\art2\obj\Debug\art2.login.resources
